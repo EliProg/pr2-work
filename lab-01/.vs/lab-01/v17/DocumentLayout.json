@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Munka\\pr2-work\\lab-01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D31371-8D2E-4484-8D7B-A7D7C9A7E121}|lab-01\\lab-01.vcxproj|C:\\Munka\\pr2-work\\lab-01\\lab-01\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1D31371-8D2E-4484-8D7B-A7D7C9A7E121}|lab-01\\lab-01.vcxproj|solutionrelative:lab-01\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D31371-8D2E-4484-8D7B-A7D7C9A7E121}|lab-01\\lab-01.vcxproj|C:\\Munka\\pr2-work\\lab-01\\lab-01\\nevek.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D1D31371-8D2E-4484-8D7B-A7D7C9A7E121}|lab-01\\lab-01.vcxproj|solutionrelative:lab-01\\nevek.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nevek.txt",
+              "DocumentMoniker": "C:\\Munka\\pr2-work\\lab-01\\lab-01\\nevek.txt",
+              "RelativeDocumentMoniker": "lab-01\\nevek.txt",
+              "ToolTip": "C:\\Munka\\pr2-work\\lab-01\\lab-01\\nevek.txt",
+              "RelativeToolTip": "lab-01\\nevek.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-02-27T09:45:44.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Munka\\pr2-work\\lab-01\\lab-01\\FileName.cpp",
+              "RelativeDocumentMoniker": "lab-01\\FileName.cpp",
+              "ToolTip": "C:\\Munka\\pr2-work\\lab-01\\lab-01\\FileName.cpp",
+              "RelativeToolTip": "lab-01\\FileName.cpp",
+              "ViewState": "AQIAACYAAAAAAAAAAAAkwBMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T09:37:49.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
