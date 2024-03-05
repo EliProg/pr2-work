@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Munka\\pr2-work\\lab-02\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85735A84-05D4-4E8A-9DF0-A6E9E757758F}|Project1\\Project1.vcxproj|C:\\Munka\\pr2-work\\lab-02\\Project1\\Project1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85735A84-05D4-4E8A-9DF0-A6E9E757758F}|Project1\\Project1.vcxproj|solutionrelative:Project1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Munka\\pr2-work\\lab-02\\Project1\\Project1\\FileName.cpp",
+              "RelativeDocumentMoniker": "Project1\\FileName.cpp",
+              "ToolTip": "C:\\Munka\\pr2-work\\lab-02\\Project1\\Project1\\FileName.cpp",
+              "RelativeToolTip": "Project1\\FileName.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAADwv0cAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-05T09:14:11.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
