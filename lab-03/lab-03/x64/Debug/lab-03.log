@@ -1,0 +1,26 @@
+﻿  FileName.cpp
+C:\Munka\pr2-work\lab-03\lab-03\FileName.cpp(48,2): error C2664: 'void Feltolt(int *[],int)': cannot convert argument 1 from 'int *' to 'int *[]'
+  C:\Munka\pr2-work\lab-03\lab-03\FileName.cpp(48,10):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  C:\Munka\pr2-work\lab-03\lab-03\FileName.cpp(12,6):
+  see declaration of 'Feltolt'
+  C:\Munka\pr2-work\lab-03\lab-03\FileName.cpp(48,2):
+  while trying to match the argument list '(int *, int)'
+  
+C:\Munka\pr2-work\lab-03\lab-03\FileName.cpp(49,2): error C2664: 'void Kiir(int *[],int)': cannot convert argument 1 from 'int *' to 'int *[]'
+  C:\Munka\pr2-work\lab-03\lab-03\FileName.cpp(49,7):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  C:\Munka\pr2-work\lab-03\lab-03\FileName.cpp(14,6):
+  see declaration of 'Kiir'
+  C:\Munka\pr2-work\lab-03\lab-03\FileName.cpp(49,2):
+  while trying to match the argument list '(int *, int)'
+  
+C:\Munka\pr2-work\lab-03\lab-03\FileName.cpp(50,45): error C2664: 'int Max(int *[],int)': cannot convert argument 1 from 'int *' to 'int *[]'
+  C:\Munka\pr2-work\lab-03\lab-03\FileName.cpp(50,49):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  C:\Munka\pr2-work\lab-03\lab-03\FileName.cpp(16,5):
+  see declaration of 'Max'
+  C:\Munka\pr2-work\lab-03\lab-03\FileName.cpp(50,45):
+  while trying to match the argument list '(int *, int)'
+  
+C:\Munka\pr2-work\lab-03\lab-03\FileName.cpp(50,42): error C2088: built-in operator '<<' cannot be applied to an operand of type 'std::basic_ostream<char,std::char_traits<char>>'
