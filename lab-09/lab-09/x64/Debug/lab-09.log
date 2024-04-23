@@ -1,0 +1,5 @@
+﻿  lab-09.cpp
+C:\Munka\pr2-work\lab-09\lab-09\lab-09.cpp(29,17): error C2512: 'Eredmeny': no appropriate default constructor available
+  C:\Munka\pr2-work\lab-09\lab-09\lab-09.cpp(9,7):
+  see declaration of 'Eredmeny'
+  
